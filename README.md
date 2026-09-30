@@ -1,4 +1,4 @@
-<h1 align="center">Unique container for Settings , always updated.</h1>
+<h1 align="center">Satellite Settings.</h1>
 
 <p align="center">
   <a href="https://satellite-forum.com/index.php">
